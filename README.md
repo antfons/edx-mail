@@ -76,7 +76,7 @@ A high-level Python Web framework.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/antfons/edx-mail/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/antfons/edx-mail/blob/master/LICENSE)
 
 
 ## Motivation
