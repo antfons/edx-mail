@@ -1,0 +1,41 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-inbox{
+    display: flex;
+    float: left;
+    border: 1px solid black;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.email-inbox:hover{
+    cursor: pointer;
+}
+.timestamp {
+    margin-left: auto;
+    color: grey;
+}
+
+.sender, .recipients {
+    font-weight: bold;
+ 
+}
+
+.subject {
+    margin-left: 30px;
+}
+
+.archiveDiv{
+    display: flex;
+    float: left;
+}
+
+.read {
+    background-color: rgb(170, 169, 169, 0.4);
+    font-weight: unset;
+}
+
+
