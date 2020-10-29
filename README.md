@@ -37,7 +37,12 @@ DATABASES = {
 }
 ```
 
-### Install python dependencies
+### Install python dependencies. Enter project folder and execute:
+```console
+pipenv install
+```
+
+### Activate python environment
 ```console
 pipenv shell
 ```
